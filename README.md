@@ -1,7 +1,5 @@
 # UPI-Transactions-Dashboard
 
-### Dashboard Link : [https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection][https://app.powerbi.com/groups/me/reports/473401a5-d49d-4e24-b104-069d05c801e5/a8c634139c5e31e5477a?experience=power-bi]
-
 ## Problem Statement
 
 This dashboard helps the Customer understand their expennses better. It helps the customer know if their expenses are satisfied with their expectation. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the average delay & departure time, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these unwanted delays.
@@ -121,7 +119,7 @@ A card visual was used to represent count of customers.
 
 # Snapshot of Dashboard (Power BI Service)
 
-![dashboard_snapo](https://user-images.githubusercontent.com/102996550/174096257-11f1aae5-203d-44fc-bfca-25d37faf3237.jpg)
+![dashboard_snapo](https://github.com/ukishore33/UPI-Transactions-Data-Analysis/blob/main/Media/Screenshot%20(1).png)
 
  
  # Report Snapshot (Power BI DESKTOP)
