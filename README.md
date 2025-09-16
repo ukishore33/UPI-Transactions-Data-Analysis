@@ -120,7 +120,7 @@ A card visual was used to represent count of customers.
 # Snapshot of Dashboard (Power BI Service)
 
 ![dashboard_snapo](https://github.com/ukishore33/UPI-Transactions-Data-Analysis/blob/8822e0281d16e422e8973f54080021a3dcd4a353/Media/Screenshot%20(1).png)
-![a]("https://raw.githubusercontent.comukishore33/UPI-Transactions-Data-Analysis/Media/Screenshot%20(1).png)
+![a]("https://raw.githubusercontent.com/ukishore33/UPI-Transactions-Data-Analysis/Media/Screenshot%20(1).png)
  
  # Report Snapshot (Power BI DESKTOP)
 
